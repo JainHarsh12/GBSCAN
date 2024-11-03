@@ -13,7 +13,7 @@ This project demonstrates hotspot detection in urban areas using GBSCAN (Gradien
 
 ### Prerequisites
 
-Install the required libraries by running:
+Install the required librarie by running:
 
 ```bash
 pip install -r requirements.txt
